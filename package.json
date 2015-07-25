@@ -1,5 +1,5 @@
 {
-  "name": "ProjectStrict",
+  "name": "StartProject",
   "private": true,
   "devDependencies": {
     "grunt-autoprefixer": "^3.0.3",
